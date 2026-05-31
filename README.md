@@ -2,6 +2,20 @@
 
 Standalone Tampermonkey userscript that adds practical profile and store-page tools to Steam.
 
+## Screenshots
+
+**Store header actions**
+
+![Steam store header actions](assets/readme/store-header-actions.png)
+
+**Purchase actions**
+
+![Steam purchase action buttons](assets/readme/store-purchase-actions.png)
+
+**Profile tools**
+
+![Steam profile tools](assets/readme/profile-tools.png)
+
 ## Features
 
 - Adds a CSRep shortcut on Steam profile pages.
